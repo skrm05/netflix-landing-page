@@ -1,5 +1,23 @@
 # 🎬 Netflix India - Landing Page Clone
 
+## 📸 Screenshots
+
+### Homepage
+
+![Homepage](screenshots/header.png)
+
+### Trending Section
+
+![Trending](screenshots/trending.png)
+
+### Footer Section
+
+![Footer](screenshots/footer.png)
+
+### extr-info Section
+
+![Footer](screenshots/extra-info.png)
+
 A pixel-perfect recreation of the Netflix India homepage. This project was built to master modern CSS layout techniques, complex positioning, and responsive design patterns without relying on CSS frameworks like Bootstrap or Tailwind.
 
 🔗 **[https://github.com/skrm05/netflix-landing-page.git]**
